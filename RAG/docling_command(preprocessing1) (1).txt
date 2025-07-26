@@ -1,0 +1,1 @@
+docling --from pdf --to json --image-export-mode referenced --pipeline vlm --vlm-model granite_vision_ollama --ocr --force-ocr --output .\preprocessed_vitara_vlm  GrandVitara.pdf
